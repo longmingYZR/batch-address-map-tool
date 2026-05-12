@@ -1,0 +1,14 @@
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Node (if any)
+node_modules/
+
+# Claude
+.claude/
